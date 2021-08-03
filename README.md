@@ -52,8 +52,7 @@ Now we will predict the salary for 7 years of experience
 
 
 I hope you guys liked this project.
-And don't forget to Subscribe to my channel https://www.youtube.com/channel/UCtkgHuH-Zax9GEdJ2JoPQgQ
-
+And don't forget to Subscribe to my channel [the Abdulcools](https://www.youtube.com/channel/UCtkgHuH-Zax9GEdJ2JoPQgQ)
 
 
 
