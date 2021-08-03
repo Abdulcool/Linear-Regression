@@ -16,6 +16,14 @@ First we Import the Libraries
 
 ![Capture](https://user-images.githubusercontent.com/82705966/128063810-9fd67492-ce64-4e56-ab66-cbab1c15f304.PNG)
 
+If you don't have these libraries use these websites
+
+Numpy : https://numpy.org/install/
+
+Pandas : https://pandas.pydata.org/docs/getting_started/install.html
+
+Matplotlib : https://matplotlib.org/stable/users/installing.html
+
 Then we load the dataset
 
 There is more of this dataset when you run it. This is just an example of what the labels will look like
